@@ -36,3 +36,30 @@ Synaptic consolidation, when compared to systems consolidation (which is said to
 Day Two
 Count by days is not best aproach.
 
+Reference can lead to more material, bucket terory can not be applyed directly.
+
+Another case is then material is to hard or unknown.
+Resource
+<a>https://www.researchgate.net/publication/49249476_Why_Some_Material_Is_Difficult_to_Learn</a>
+Limited working memory makes it difficelt to understand. Need to know material before trying, exapmle could be in solving algorithm, part knowloadge of common tools can be bareal for solving solution.
+
+People interacts with Schemas <a>https://en.wikipedia.org/wiki/Schema_(psychology)</a>, this makes sence why only few word from song can create full song in our hear, ok but how schemas are created?
+
+Problems can be solved by only knowing full interaction with information:
+a/b = c find b.
+If we spliting this info into smaller parts: what is a what is b and what is c, we could not solve this problem, all of them are numbers. We need to know relations in this situation, (aditional information) 
+We can move a or b ro right side by multipling oposites.
+a/b * b = c * b b is removed
+a = c * b
+a/b / a = a / c
+
+LEADS TO of course we need to know what is number but also (aditional info beatween numbers)
+Addind text to pictures increases cognitive load this means docs are better, than videos. Why, brain needs to interact with picture and text. But how to solve this my guess is to separate result from code. 1) write correct code, then solve task? But how? 
+Loop in loop:
+for(keyword) i(changing variable) in(keyword) elements(i is assigned to element):
+    i is now available in thsi code part, i links to element from list
+    print(i)
+    Now we can start another loop
+    for(keyword) a(changing variable) in(keyword) another_elements(a is element assigned from this list):
+        now we have i and new running loop.
+         
