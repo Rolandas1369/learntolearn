@@ -11,4 +11,7 @@ git help - access help
 git bugreport -submit git bug
 git add - add file or files to local repo
 git status -check status of local git
-git diff
+git diff {filename} get difference beetwean commits
+git commit - add message to added files
+git clone - clone project from remote
+git notes
