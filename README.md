@@ -32,3 +32,7 @@ LEAD TO: can be minutes beatwean sessions
 
 Timeline of consolidation
 Synaptic consolidation, when compared to systems consolidation (which is said to take weeks to months to years to be accomplished), is considerably faster. There is evidence to suggest that synaptic consolidation takes place within minutes to hours of memory encoding or learning, and as such is considered the 'fast' type of consolidation.[1] As soon as six hours after training, memories become impervious to interferences that disrupt synaptic consolidation and the formation of long-term memory.
+
+Day Two
+Count by days is not best aproach.
+
