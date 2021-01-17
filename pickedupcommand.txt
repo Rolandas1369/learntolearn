@@ -1,0 +1,13 @@
+git log --diff-filter=D --summary shoe log filter by mode deleted
+ctrl+alt+oneofarrows - multi cursor by lines
+
+CTRL+SHIFT+P, enter "Preferences: Open Keyboard Shortcuts (JSON)
+     // ...
+     {
+        "key": "ctrl+tab",
+        "command": "workbench.action.nextEditor"
+    },
+    {
+        "key": "ctrl+shift+tab",
+        "command": "workbench.action.previousEditor"
+    }

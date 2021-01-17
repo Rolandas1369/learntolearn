@@ -15,4 +15,5 @@ git diff {filename} get difference beetwean commits
 git commit - add message to added files
 git clone - clone project from remote
 git notes ??
+git restore -s {branch from with to respore}~1 by how many commits back {filename} restores files or folders removed by git rm
 
