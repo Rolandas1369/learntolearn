@@ -63,3 +63,8 @@ for(keyword) i(changing variable) in(keyword) elements(i is assigned to element)
     for(keyword) a(changing variable) in(keyword) another_elements(a is element assigned from this list):
         now we have i and new running loop.
          
+Resouce 
+<a>https://www.obsidianlearning.com/blog/2018/04/cognitive-theories-for-transforming-learning.html</a>
+
+Summary for now
+Split big content to smaller parts, maybe it is better to learn from docs (easy to split a lot of data), videos with long courses can have impresion of imposible task of its lenght, try to find similarities in functions or code blocks (adds to schema) group things if you can implement some code few times dont repeat it (progresive learning), implementing new thing (reapeat it by words) more channels are involved. Try to leed to something, use few functions in a row JS example [1,2,3,4].filter((a) => a > 2).reduce((sum, a) => sum += a) maybe not a best case from readers but adds to new layer of thinking. 
