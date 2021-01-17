@@ -14,4 +14,5 @@ git status -check status of local git
 git diff {filename} get difference beetwean commits
 git commit - add message to added files
 git clone - clone project from remote
-git notes
+git notes ??
+
