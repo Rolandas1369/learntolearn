@@ -182,3 +182,4 @@ one_counted1 = Counter(dupl_list)
 # can count counter
 print(one_counted + one_counted1)
 
+# ended in 40 page
