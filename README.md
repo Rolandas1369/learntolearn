@@ -1,14 +1,20 @@
-# learntolearn
+JS group
 
-Study research <a>https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1011&context=ciel</a>
+[1,2,3,4](items gos to filter function as argument).filter(function(function paramters) => condition of another function) 
 
-Leitner system
+[1,2,3,4].filter((a) => a > 2) return [3,4]
+[1,2,3,4].reduce((argWhatThisAddedTosUM, addingArgumentFromList) => function or condition)
+[1,2,3,4].reduce((argWhatThisAddedTosUM, addingArgumentFromList) => function or condition)
+[1,2,3,4].reduce((acc, a) => acc += a) returns 10
 
-In this method flashcards are sorted into groups according to how well the learner knows each one in the Leitner's learning box. The learners try to recall the solution written on a flashcard. If they succeed, they send the card to the next group. If they fail, they send it back to the first group. Each succeeding group has a longer period of time before the learner is required to revisit the cards. In Leitner's original method, published in his book So lernt man Lernen (How to learn to learn), the schedule of repetition was governed by the size of the partitions in the learning box. These were 1, 2, 5, 8 and 14cm. Only when a partition became full was the learner to review some of the cards it contained, moving them forward or back depending on whether they remembered them.
 
-Use in programming
-Docs have references:
+[1,2,3,4].fill(arg or function) replaces every array element with on returns [1,1,1,1] is arg 1
+[1,2,3,4,[1,2,3]].flat() create new array of nested array
+[1,2,3,4].find((a) => a > 2) finds first occurance meeting condition return 3
+[1,2,3,4].findIndex((a) => a > 2) finds index of first occurance meeting condition return 2
+[1,2,3,4].forEach(a => function or function call) -> doesnt return anything
 
+<<<<<<< HEAD
 <a>https://github.com/Rolandas1369/learntolearn/blob/main/GITgroup</a>
 
 First attempt at unknown, commands must be used in first approach.
@@ -68,3 +74,11 @@ Resouce
 
 Summary for now
 Split big content to smaller parts, maybe it is better to learn from docs (easy to split a lot of data), videos with long courses can have impresion of imposible task of its lenght, try to find similarities in functions or code blocks (adds to schema) group things if you can implement some code few times dont repeat it (progresive learning), implementing new thing (reapeat it by words) more channels are involved. Try to leed to something, use few functions in a row JS example [1,2,3,4].filter((a) => a > 2).reduce((sum, a) => sum += a) maybe not a best case from readers but adds to new layer of thinking. 
+=======
+Array.from([array], function on array what applied on each element)
+[1,2,3,4].includes(1) return true
+[1,2,3,4].indexOf(1) return 0
+Array.isArray([1,2]) return true
+[1,2,3].join() joins array to string "1,2,3"
+const abc(a,b,c)
+>>>>>>> d9a0ee51d91212ef7c65ee1ed57ffa7f619eebe2
